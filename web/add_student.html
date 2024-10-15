@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <form action="addStudentServlet.do" method="POST" enctype="multipart/form-data">
+            <table border="1">
+                <tbody>
+                    <tr>
+                        <td>student number:</td>
+                        <td><input type="text" name="studentnumber" value="" /></td>
+                    </tr>
+                    <tr>
+                        <td>name:</td>
+                        <td><input type="text" name="name" value="" /></td>
+                    </tr>
+                    <tr>
+                        <td>surname:</td>
+                        <td><input type="text" name="surname" value="" /></td>
+                    </tr>
+                    <tr>
+                        <td>Select your image:</td>
+                        <td><input type="file" name="file" accept="image/*"/></td>
+                    </tr>
+                    <tr>
+                        <td>                    </td>
+                        <td><input type="submit" value="Add Student" /></td>
+                    </tr>
+                </tbody>
+            </table>
+
+        <p>
+                         click <a href="index.html">here</a> to go back to menu 
+        </p>
+            
+            
+        </form>
+    </body>
+</html>

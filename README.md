@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ClassList Application - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        p {
-            line-height: 1.6;
-        }
-        code {
-            background-color: #eee;
-            padding: 5px;
-        }
-        .file-structure {
-            margin-top: 20px;
-            padding-left: 20px;
-        }
-        .file-structure ul {
-            list-style-type: none;
-        }
-        .file-structure li {
-            margin: 5px 0;
-        }
-        .file-structure ul ul {
-            margin-left: 20px;
-        }
-    </style>
-</head>
+
 <body>
 
   <h1>ClassList Application</h1>

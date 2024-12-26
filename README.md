@@ -58,7 +58,6 @@
         <li><b>View Number of Students:</b> Navigate to <code>num_student.html</code> to view the total number of students in the system.</li>
     </ul>
     <h2>Credits</h2>
-    <p>This application was developed by sifiso vinjwa.</p>
 <h3>developed by sifiso vinjwa</h3>
 </body>
 </html>

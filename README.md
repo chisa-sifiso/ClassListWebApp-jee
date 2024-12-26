@@ -59,6 +59,6 @@
     </ul>
     <h2>Credits</h2>
     <p>This application was developed by sifiso vinjwa.</p>
-
+<h3>developed by sifiso vinjwa</h3>
 </body>
 </html>
